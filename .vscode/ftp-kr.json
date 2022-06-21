@@ -1,0 +1,16 @@
+{
+    "host": "cpanel.freehosting.com",
+    "username": "chandra@pipientertainment.site",
+    "password": "chandra",
+    "remotePath": "/",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
