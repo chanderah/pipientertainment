@@ -6,11 +6,15 @@
     "protocol": "ftp",
     "port": 0,
     "fileNameEncoding": "utf8",
-    "autoUpload": true,
-    "autoDelete": false,
+    "autoUpload": false,
+    "autoDelete": true,
     "autoDownload": false,
+    "ignoreRemoteModification": true,
     "ignore": [
         ".git",
-        "/.vscode"
+        ".pdf",
+        ".docx",
+        "/.vscode",
+        "/.doc"
     ]
 }

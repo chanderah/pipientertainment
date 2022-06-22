@@ -391,6 +391,15 @@ mark,
   max-width: 100%;
   height: auto; }
 
+.img-fluid2 {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -441,13 +450,17 @@ pre {
   max-height: 340px;
   overflow-y: scroll; }
 
+.container-fluid {
+  width: 100%;
+  margin-top: 100px; 
+  margin-right: auto;
+  margin-left: auto; }
+
 .container,
-.container-fluid,
 .container-sm,
 .container-md,
 .container-lg,
 .container-xl {
-  width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
