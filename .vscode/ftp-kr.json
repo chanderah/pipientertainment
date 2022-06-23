@@ -6,8 +6,8 @@
     "protocol": "ftp",
     "port": 0,
     "fileNameEncoding": "utf8",
-    "autoUpload": false,
-    "autoDelete": true,
+    "autoUpload": true,
+    "autoDelete": false,
     "autoDownload": false,
     "ignoreRemoteModification": true,
     "ignore": [

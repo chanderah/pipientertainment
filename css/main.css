@@ -27,6 +27,19 @@ header {
   background-repeat: no-repeat;
 }
 
+.clienttt{
+  max-height: 150px;
+  max-width: 150px;
+}
+
+.client1{
+  border-radius: 50%;
+}
+
+.liii {
+margin: 35px;
+}
+
 a.navbar-brand {
   color: rgba(255, 255, 255, 0.85) !important;
   font-weight: 500; }
@@ -95,7 +108,7 @@ a.navbar-brand {
   .da-team .carousel-indicators li {
     background-color: #3d3f4c; }
   .da-team .carousel-indicators .active {
-    background-color: #26b7a0; }
+    background-color: #00a0df; }
 
 /*Image Gallery Style*/
 .da-gallery .card-columns .card {
