@@ -34,6 +34,15 @@ header {
 
 .client1{
   border-radius: 50%;
+  max-height: 300px;
+  max-width: 300px;
+  padding: 10px;
+}
+
+
+@media (max-width: 767px) {
+  .client1 {
+  }
 }
 
 .liii {
